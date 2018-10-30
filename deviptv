@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0 group-title="IN: _",IN: 5AAB TV 
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: AGAM TV 
+http://209.58.160.206/agamtvhls/live.m3u8
+#EXTINF:0 group-title="IN: _",IN: AKARAM GALLATA TV 
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0 group-title="IN: _",IN: AKARAM KIDZ 
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: AKARAM MIX TV 
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:0 group-title="IN: _",IN: AMAR UJALA 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: ANALAI EXPRESS 
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:0 group-title="IN: _",IN: AND PICTURES 
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: AND PRIV HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: AND TV 
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: AND TV (1+) 
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: APPLE ME TV 
+http://45.79.203.234:1935/apple6/myStream/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: BHARAT TODAY 
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: BOOGLE BOLLYWOOD 
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: CANADA STAR TV 
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: EET TV TAMIL CANADA 
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: EKTA TV 
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: EKTA TV GURBANI 
+http://fastway.ddns.net:6421/fastway/glive/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: FASTWAY TV 
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: GABRUU TV 
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:0 group-title="IN: _",IN: GLOBAL PUNJAB TV 
+http://207.244.112.71/globalpunjabhls/live.m3u8
+#EXTINF:0 group-title="IN: _",IN: GURBAANI TV 
+http://173.255.140.23:8081/live/gtvna/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: GURBANI HEALING 
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: HINDI KHABAR 
+http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:HindiKhabhar.smil/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: JANTA TV 
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: JUS ONE 
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: KAUMUDY 
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: MADHIMUGAM TV 
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: NAKKUBETTA TV 
+http://209.58.180.57/nbtvhls/nbtv.m3u8
+#EXTINF:0 group-title="IN: _",IN: NDTV 
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0 group-title="IN: _",IN: NETRIKAN TV 
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: OSAI TV 
+http://209.58.180.53/osaihls/live.m3u8
+#EXTINF:0 group-title="IN: _",IN: PEPPERS TV 
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: PICTURE HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: PRIME ASIA TV 
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: SAINT TV 
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:0 group-title="IN: _",IN: SANTHORA TV 
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:0 group-title="IN: _",IN: TAMIL VISION 
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: TAMILAN TELEVISION 
+http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: TIRUR CABLE VISION 
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: TUNES 6 
+http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: TV 16 TORONTO 
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: VAIGAI TV 
+http://209.58.164.113/vaigaihls/live.m3u8
+#EXTINF:0 group-title="IN: _",IN: VENDHAR TV 
+http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE 24 KALAK 
+http://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE 24 TAAS 
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE ACTION 
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE PUNJABI 
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE TALKIES 
+http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE TAMIL 
+http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE UTTAR PRADESH UTTARAKHAND 
+http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: _",IN: ZEE YUVA 
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
