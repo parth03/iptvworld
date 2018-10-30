@@ -1,78 +1,259 @@
-#EXTINF:-1,In- &TV
-http://194.88.107.95:6204/live/Abas/Abas/8382.ts
-#EXTINF:-1,In- Asianet
-http://194.88.107.95:6204/live/Abas/Abas/10966.ts
-#EXTINF:-1,In- Asianet Movies
-http://194.88.107.95:6204/live/Abas/Abas/10965.ts
-#EXTINF:-1,In- B4U Movies
-http://194.88.107.95:6204/live/Abas/Abas/8385.ts
-#EXTINF:-1,In- B4U Music
-http://194.88.107.95:6204/live/Abas/Abas/8384.ts
-#EXTINF:-1,In- B4u Plus
-http://194.88.107.95:6204/live/Abas/Abas/10968.ts
-#EXTINF:-1,In- Color Marat
-http://194.88.107.95:6204/live/Abas/Abas/10964.ts
-#EXTINF:-1,In- COLORS TV UK
-http://194.88.107.95:6204/live/Abas/Abas/8394.ts
-#EXTINF:-1,In- DD Bahart
-http://194.88.107.95:6204/live/Abas/Abas/10963.ts
-#EXTINF:-1,In- Gemini
-http://194.88.107.95:6204/live/Abas/Abas/10962.ts
-#EXTINF:-1,In- Music India
-http://194.88.107.95:6204/live/Abas/Abas/10375.ts
-#EXTINF:-1,In- Sony BBC Earth India
-http://194.88.107.95:6204/live/Abas/Abas/10961.ts
-#EXTINF:-1,In- SONY MAX 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/10951.ts
-#EXTINF:-1,In- SONY MAX HD
-http://194.88.107.95:6204/live/Abas/Abas/8645.ts
-#EXTINF:-1,In- SONY MIX
-http://194.88.107.95:6204/live/Abas/Abas/8391.ts
-#EXTINF:-1,In- Sony Pix
-http://194.88.107.95:6204/live/Abas/Abas/10960.ts
-#EXTINF:-1,In- SONY SAB
-http://194.88.107.95:6204/live/Abas/Abas/8388.ts
-#EXTINF:-1,In- Sony TV
-http://194.88.107.95:6204/live/Abas/Abas/8390.ts
-#EXTINF:-1,In- Star Bharat
-http://194.88.107.95:6204/live/Abas/Abas/8939.ts
-#EXTINF:-1,In- Star Jalsha
-http://194.88.107.95:6204/live/Abas/Abas/10959.ts
-#EXTINF:-1,In- Star Gold
-http://194.88.107.95:6204/live/Abas/Abas/8380.ts
-#EXTINF:-1,In- Star Plus
-http://194.88.107.95:6204/live/Abas/Abas/8938.ts
-#EXTINF:-1,In- Star Select
-http://194.88.107.95:6204/live/Abas/Abas/10958.ts
-#EXTINF:-1,In- Star World
-http://194.88.107.95:6204/live/Abas/Abas/10957.ts
-#EXTINF:-1,In- Ten Cricket
-http://194.88.107.95:6204/live/Abas/Abas/10956.ts
-#EXTINF:-1,In- Trace Urban
-http://194.88.107.95:6204/live/Abas/Abas/10955.ts
-#EXTINF:-1,In- Rishte Asia
-http://194.88.107.95:6204/live/Abas/Abas/10954.ts
-#EXTINF:-1,Per- Varzish Sport HD
-http://194.88.107.95:6204/live/Abas/Abas/1925.ts
-#EXTINF:-1,In- UTV Movies
-http://194.88.107.95:6204/live/Abas/Abas/8379.ts
-#EXTINF:-1,In- Zee Cafe
-http://194.88.107.95:6204/live/Abas/Abas/10953.ts
-#EXTINF:-1,In- Zee Cinema
-http://194.88.107.95:6204/live/Abas/Abas/8378.ts
-#EXTINF:-1,In-Zee Bollywood
-http://194.88.107.95:6204/live/Abas/Abas/10374.ts
-#EXTINF:-1,In- Zee Studio
-http://194.88.107.95:6204/live/Abas/Abas/10952.ts
-#EXTINF:-1,In- Zee TV
-http://194.88.107.95:6204/live/Abas/Abas/8377.ts
-#EXTINF:-1,In- Zing Music
-http://194.88.107.95:6204/live/Abas/Abas/10373.ts
-#EXTINF:-1,In- Zing TV
-http://194.88.107.95:6204/live/Abas/Abas/8947.ts
-#EXTINF:-1,In- Sony Ten 1 HD
-http://194.88.107.95:6204/live/Abas/Abas/8931.ts
-#EXTINF:-1,In- Sony Ten 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/8930.ts
-#EXTINF:-1,In- Sony Ten 3 HD
-http://194.88.107.95:6204/live/Abas/Abas/8929.ts
+#EXTM3U
+#EXTINF:0,IN | ZEE Action
+http://iptv33.hopto.me:9000/live/11111/11111/2850.ts
+#EXTINF:0,IN | ZEE BOLLYWOOD HD
+http://iptv33.hopto.me:9000/live/11111/11111/2849.ts
+#EXTINF:0,IN | ZEE CINEMA
+http://iptv33.hopto.me:9000/live/11111/11111/2738.ts
+#EXTINF:0,IN | ZEE CINEMA HD INDIA
+http://iptv33.hopto.me:9000/live/11111/11111/2848.ts
+#EXTINF:0,IN | Zee Anmol Cinema
+http://iptv33.hopto.me:9000/live/11111/11111/2813.ts
+#EXTINF:0,IN | Zee Bangla
+http://iptv33.hopto.me:9000/live/11111/11111/2812.ts
+#EXTINF:0,IN | Zee Business
+http://iptv33.hopto.me:9000/live/11111/11111/2811.ts
+#EXTINF:0,IN | Zee Classic
+http://iptv33.hopto.me:9000/live/11111/11111/2810.ts
+#EXTINF:0,IN | Zee Foodz
+http://iptv33.hopto.me:9000/live/11111/11111/2809.ts
+#EXTINF:0,IN | Zee News
+http://iptv33.hopto.me:9000/live/11111/11111/2808.ts
+#EXTINF:0,IN | Zee Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2807.ts
+#EXTINF:0,IN | Zee Smile
+http://iptv33.hopto.me:9000/live/11111/11111/2806.ts
+#EXTINF:0,IN | Zee Studio HD
+http://iptv33.hopto.me:9000/live/11111/11111/2805.ts
+#EXTINF:0,IN | Zee Tamil TV
+http://iptv33.hopto.me:9000/live/11111/11111/2804.ts
+#EXTINF:0,IN | Zee TV HD
+http://iptv33.hopto.me:9000/live/11111/11111/2847.ts
+#EXTINF:0,IN |  Zee Cinema HD
+http://iptv33.hopto.me:9000/live/11111/11111/2761.ts
+#EXTINF:0,IN |  Zee Cinema Inter
+http://iptv33.hopto.me:9000/live/11111/11111/2762.ts
+#EXTINF:0,IN |  Zee Etc
+http://iptv33.hopto.me:9000/live/11111/11111/2760.ts
+#EXTINF:0,IN |  Zee Talkies
+http://iptv33.hopto.me:9000/live/11111/11111/2759.ts
+#EXTINF:0,IN |  ZEE TV HD
+http://iptv33.hopto.me:9000/live/11111/11111/2757.ts
+#EXTINF:0,IN | B4U_Movies TV
+http://iptv33.hopto.me:9000/live/11111/11111/2863.ts
+#EXTINF:0,IN | B4U_Music / B4U_Plus
+http://iptv33.hopto.me:9000/live/11111/11111/2862.ts
+#EXTINF:0,IN | COLORS GUJRATI
+http://iptv33.hopto.me:9000/live/11111/11111/2752.ts
+#EXTINF:0,IN | COLORS TV INDIA
+http://iptv33.hopto.me:9000/live/11111/11111/2751.ts
+#EXTINF:0,IN | Star Gold HD
+http://iptv33.hopto.me:9000/live/11111/11111/2803.ts
+#EXTINF:0,IN | Star Jalsha
+http://iptv33.hopto.me:9000/live/11111/11111/2829.ts
+#EXTINF:0,IN | Star Movies HD
+http://iptv33.hopto.me:9000/live/11111/11111/2854.ts
+#EXTINF:0,IN | Star Plus HD
+http://iptv33.hopto.me:9000/live/11111/11111/2853.ts
+#EXTINF:0,IN | Star Sports 1
+http://iptv33.hopto.me:9000/live/11111/11111/2828.ts
+#EXTINF:0,IN | Star Sports 2
+http://iptv33.hopto.me:9000/live/11111/11111/2827.ts
+#EXTINF:0,IN | Star Sports 3
+http://iptv33.hopto.me:9000/live/11111/11111/2826.ts
+#EXTINF:0,IN | Star Sports 4
+http://iptv33.hopto.me:9000/live/11111/11111/2825.ts
+#EXTINF:0,IN |  24 Ghanta
+http://iptv33.hopto.me:9000/live/11111/11111/2801.ts
+#EXTINF:0,IN |  9XM
+http://iptv33.hopto.me:9000/live/11111/11111/2800.ts
+#EXTINF:0,IN |  ATN/NRDTV News Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2792.ts
+#EXTINF:0,IN |  Bollywood Movies
+http://iptv33.hopto.me:9000/live/11111/11111/2799.ts
+#EXTINF:0,IN |  CBN Cricket
+http://iptv33.hopto.me:9000/live/11111/11111/2797.ts
+#EXTINF:0,IN |  Chakde TV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2796.ts
+#EXTINF:0,IN |  Colors HD
+http://iptv33.hopto.me:9000/live/11111/11111/2795.ts
+#EXTINF:0,IN |  DESI BEATS HD Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2794.ts
+#EXTINF:0,IN |  Desi Channel Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2793.ts
+#EXTINF:0,IN |  Flowers Tv
+http://iptv33.hopto.me:9000/live/11111/11111/2791.ts
+#EXTINF:0,IN |  Gurbani TV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2790.ts
+#EXTINF:0,IN |  JAYA USA
+http://iptv33.hopto.me:9000/live/11111/11111/2777.ts
+#EXTINF:0,IN |  JHANJAR HD Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2788.ts
+#EXTINF:0,IN |  KTV USA
+http://iptv33.hopto.me:9000/live/11111/11111/2758.ts
+#EXTINF:0,IN |  Living Food Food
+http://iptv33.hopto.me:9000/live/11111/11111/2787.ts
+#EXTINF:0,IN |  Media Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2785.ts
+#EXTINF:0,IN |  MH 1 Shradha Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2786.ts
+#EXTINF:0,IN |  MH1 MUSIC
+http://iptv33.hopto.me:9000/live/11111/11111/2789.ts
+#EXTINF:0,IN |  MTV INDIA
+http://iptv33.hopto.me:9000/live/11111/11111/2784.ts
+#EXTINF:0,IN |  PBN Music Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2783.ts
+#EXTINF:0,IN |  PTC Chak De Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2782.ts
+#EXTINF:0,IN |  PTC Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2780.ts
+#EXTINF:0,IN |  Raj TV US
+http://iptv33.hopto.me:9000/live/11111/11111/2779.ts
+#EXTINF:0,IN |  RE Gulistaan News
+http://iptv33.hopto.me:9000/live/11111/11111/2778.ts
+#EXTINF:0,IN |  Saab TV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2766.ts
+#EXTINF:0,IN |  SikhTV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2767.ts
+#EXTINF:0,IN |  Star Life OK U.K.
+http://iptv33.hopto.me:9000/live/11111/11111/2776.ts
+#EXTINF:0,IN |  Star Plus HD
+http://iptv33.hopto.me:9000/live/11111/11111/2775.ts
+#EXTINF:0,IN |  Star Vijay
+http://iptv33.hopto.me:9000/live/11111/11111/2774.ts
+#EXTINF:0,IN |  Ten Action
+http://iptv33.hopto.me:9000/live/11111/11111/2773.ts
+#EXTINF:0,IN |  Ten Cricket
+http://iptv33.hopto.me:9000/live/11111/11111/2772.ts
+#EXTINF:0,IN |  Ten Golf HD
+http://iptv33.hopto.me:9000/live/11111/11111/2771.ts
+#EXTINF:0,IN |  Time Now
+http://iptv33.hopto.me:9000/live/11111/11111/2770.ts
+#EXTINF:0,IN |  TV84 Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2765.ts
+#EXTINF:0,IN |  UTV Bindaas
+http://iptv33.hopto.me:9000/live/11111/11111/2763.ts
+#EXTINF:0,IN |  Zoom
+http://iptv33.hopto.me:9000/live/11111/11111/2756.ts
+#EXTINF:0,IN | 9X Jhakaas
+http://iptv33.hopto.me:9000/live/11111/11111/2764.ts
+#EXTINF:0,IN | AAJ TAK NEWS
+http://iptv33.hopto.me:9000/live/11111/11111/2755.ts
+#EXTINF:0,IN | ABP NEWS
+http://iptv33.hopto.me:9000/live/11111/11111/2754.ts
+#EXTINF:0,IN | And Picture HD
+http://iptv33.hopto.me:9000/live/11111/11111/2864.ts
+#EXTINF:0,IN | AND TV HD
+http://iptv33.hopto.me:9000/live/11111/11111/2753.ts
+#EXTINF:0,IN | AONE Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2781.ts
+#EXTINF:0,IN | Asianet (lokal)
+http://iptv33.hopto.me:9000/live/11111/11111/2846.ts
+#EXTINF:0,IN | Asianet Movies
+http://iptv33.hopto.me:9000/live/11111/11111/2845.ts
+#EXTINF:0,IN | Asianet News
+http://iptv33.hopto.me:9000/live/11111/11111/2844.ts
+#EXTINF:0,IN | Asianet Plus
+http://iptv33.hopto.me:9000/live/11111/11111/2843.ts
+#EXTINF:0,IN | Cartoon Network Hindi
+http://iptv33.hopto.me:9000/live/11111/11111/2798.ts
+#EXTINF:0,IN | Chardiala TIME TV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2769.ts
+#EXTINF:0,IN | Colours UK
+http://iptv33.hopto.me:9000/live/11111/11111/2842.ts
+#EXTINF:0,IN | Hamdard TV Punjabi
+http://iptv33.hopto.me:9000/live/11111/11111/2768.ts
+#EXTINF:0,IN | Jaya Max USA
+http://iptv33.hopto.me:9000/live/11111/11111/2841.ts
+#EXTINF:0,IN | Jaya Movies
+http://iptv33.hopto.me:9000/live/11111/11111/2840.ts
+#EXTINF:0,IN | Jaya Plus
+http://iptv33.hopto.me:9000/live/11111/11111/2839.ts
+#EXTINF:0,IN | Jaya TV
+http://iptv33.hopto.me:9000/live/11111/11111/2838.ts
+#EXTINF:0,IN | Life O.K TV
+http://iptv33.hopto.me:9000/live/11111/11111/2861.ts
+#EXTINF:0,IN | M Tunes
+http://iptv33.hopto.me:9000/live/11111/11111/2837.ts
+#EXTINF:0,IN | Maa Gold (movies)
+http://iptv33.hopto.me:9000/live/11111/11111/2836.ts
+#EXTINF:0,IN | Maa Music
+http://iptv33.hopto.me:9000/live/11111/11111/2835.ts
+#EXTINF:0,IN | Movies OK HD
+http://iptv33.hopto.me:9000/live/11111/11111/2859.ts
+#EXTINF:0,IN | Movies OK TV
+http://iptv33.hopto.me:9000/live/11111/11111/2860.ts
+#EXTINF:0,IN | MTUNES HD MUSIC
+http://iptv33.hopto.me:9000/live/11111/11111/2750.ts
+#EXTINF:0,IN | MUSIC INDIA
+http://iptv33.hopto.me:9000/live/11111/11111/2858.ts
+#EXTINF:0,IN | PEACE TV URDU
+http://iptv33.hopto.me:9000/live/11111/11111/2740.ts
+#EXTINF:0,IN | Santhora TV
+http://iptv33.hopto.me:9000/live/11111/11111/2834.ts
+#EXTINF:0,IN | Sony ESPN
+http://iptv33.hopto.me:9000/live/11111/11111/2824.ts
+#EXTINF:0,IN | Sony Max
+http://iptv33.hopto.me:9000/live/11111/11111/2832.ts
+#EXTINF:0,IN | Sony Max 2
+http://iptv33.hopto.me:9000/live/11111/11111/2831.ts
+#EXTINF:0,IN | Sony MIX HD
+http://iptv33.hopto.me:9000/live/11111/11111/2857.ts
+#EXTINF:0,IN | Sony Saab TV
+http://iptv33.hopto.me:9000/live/11111/11111/2830.ts
+#EXTINF:0,IN | Sony Set Max Hd
+http://iptv33.hopto.me:9000/live/11111/11111/2856.ts
+#EXTINF:0,IN | Sony Six HD
+http://iptv33.hopto.me:9000/live/11111/11111/2855.ts
+#EXTINF:0,IN | Sony TV HD Asia
+http://iptv33.hopto.me:9000/live/11111/11111/2833.ts
+#EXTINF:0,IN | Sun Music
+http://iptv33.hopto.me:9000/live/11111/11111/2818.ts
+#EXTINF:0,IN | Sun TV
+http://iptv33.hopto.me:9000/live/11111/11111/2817.ts
+#EXTINF:0,IN | Sun TV US
+http://iptv33.hopto.me:9000/live/11111/11111/2816.ts
+#EXTINF:0,IN | Surya TV
+http://iptv33.hopto.me:9000/live/11111/11111/2814.ts
+#EXTINF:0,IN | TEN 1 HD
+http://iptv33.hopto.me:9000/live/11111/11111/2823.ts
+#EXTINF:0,IN | TEN 2
+http://iptv33.hopto.me:9000/live/11111/11111/2822.ts
+#EXTINF:0,IN | TEN 3
+http://iptv33.hopto.me:9000/live/11111/11111/2821.ts
+#EXTINF:0,IN | Ten Sports
+http://iptv33.hopto.me:9000/live/11111/11111/2815.ts
+#EXTINF:0,IN | TEN/OSN CRICKET
+http://iptv33.hopto.me:9000/live/11111/11111/2820.ts
+#EXTINF:0,IN | UTV ACTION
+http://iptv33.hopto.me:9000/live/11111/11111/2739.ts
+#EXTINF:0,IN | UTV MOVIES HD
+http://iptv33.hopto.me:9000/live/11111/11111/2852.ts
+#EXTINF:0,IN | UTV Movies International
+http://iptv33.hopto.me:9000/live/11111/11111/2851.ts
+#EXTINF:0,IN | WILLOW HD
+http://iptv33.hopto.me:9000/live/11111/11111/2819.ts
+#EXTINF:0,IN | Zing
+http://iptv33.hopto.me:9000/live/11111/11111/2802.ts
+#EXTINF:0,IN: MTV Beats HD
+http://iptv33.hopto.me:9000/live/11111/11111/2744.ts
+#EXTINF:0,IN: PTV Sports
+http://iptv33.hopto.me:9000/live/11111/11111/2745.ts
+#EXTINF:0,IN: Star Plus UK
+http://iptv33.hopto.me:9000/live/11111/11111/2749.ts
+#EXTINF:0,IN: Star Sports 1 HD
+http://iptv33.hopto.me:9000/live/11111/11111/2748.ts
+#EXTINF:0,IN: Star Sports 2
+http://iptv33.hopto.me:9000/live/11111/11111/2747.ts
+#EXTINF:0,IN: Star Sports 3
+http://iptv33.hopto.me:9000/live/11111/11111/2746.ts
+#EXTINF:0,IN: Star Sports Select 1 HD
+http://iptv33.hopto.me:9000/live/11111/11111/2737.ts
+#EXTINF:0,IN: Star Sports Select 2 HD
+http://iptv33.hopto.me:9000/live/11111/11111/2736.ts
+#EXTINF:0,IN: UTV Bindaas
+http://iptv33.hopto.me:9000/live/11111/11111/2743.ts
+#EXTINF:0,IN: Zee TV UK
+http://iptv33.hopto.me:9000/live/11111/11111/2742.ts
+#EXTINF:0,IN: Zindagi TV
+http://iptv33.hopto.me:9000/live/11111/11111/2741.ts
