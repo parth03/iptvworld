@@ -1,25 +1,78 @@
-#EXTM3U
-#EXTINF:-1,IN: B4U Movies
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4528.ts
-#EXTINF:-1,IN: SONY ENTERTAINMENT
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4536.ts
-#EXTINF:-1,IN: SONY MAX
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4538.ts
-#EXTINF:-1,IN: SONY SAB
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4537.ts
-#EXTINF:-1,IN:Mastiii
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4539.ts
-#EXTINF:-1,IN: Star Gold
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4531.ts
-#EXTINF:-1,IN: STAR LIFE OK
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4530.ts
-#EXTINF:-1,IN: STAR PLUS
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4532.ts
-#EXTINF:-1,IN: B4U PLUS HD
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4529.ts
-#EXTINF:-1,IN: ZEE CINEMA
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4533.ts
-#EXTINF:-1,IN: ZEE PUNJABI HARYANA
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4534.ts
-#EXTINF:-1,IN: ZEE TV
-http://195.154.52.6:25461/live/simiptv25kanale/25canali/4535.ts
+#EXTINF:-1,In- &TV
+http://194.88.107.95:6204/live/Abas/Abas/8382.ts
+#EXTINF:-1,In- Asianet
+http://194.88.107.95:6204/live/Abas/Abas/10966.ts
+#EXTINF:-1,In- Asianet Movies
+http://194.88.107.95:6204/live/Abas/Abas/10965.ts
+#EXTINF:-1,In- B4U Movies
+http://194.88.107.95:6204/live/Abas/Abas/8385.ts
+#EXTINF:-1,In- B4U Music
+http://194.88.107.95:6204/live/Abas/Abas/8384.ts
+#EXTINF:-1,In- B4u Plus
+http://194.88.107.95:6204/live/Abas/Abas/10968.ts
+#EXTINF:-1,In- Color Marat
+http://194.88.107.95:6204/live/Abas/Abas/10964.ts
+#EXTINF:-1,In- COLORS TV UK
+http://194.88.107.95:6204/live/Abas/Abas/8394.ts
+#EXTINF:-1,In- DD Bahart
+http://194.88.107.95:6204/live/Abas/Abas/10963.ts
+#EXTINF:-1,In- Gemini
+http://194.88.107.95:6204/live/Abas/Abas/10962.ts
+#EXTINF:-1,In- Music India
+http://194.88.107.95:6204/live/Abas/Abas/10375.ts
+#EXTINF:-1,In- Sony BBC Earth India
+http://194.88.107.95:6204/live/Abas/Abas/10961.ts
+#EXTINF:-1,In- SONY MAX 2 HD
+http://194.88.107.95:6204/live/Abas/Abas/10951.ts
+#EXTINF:-1,In- SONY MAX HD
+http://194.88.107.95:6204/live/Abas/Abas/8645.ts
+#EXTINF:-1,In- SONY MIX
+http://194.88.107.95:6204/live/Abas/Abas/8391.ts
+#EXTINF:-1,In- Sony Pix
+http://194.88.107.95:6204/live/Abas/Abas/10960.ts
+#EXTINF:-1,In- SONY SAB
+http://194.88.107.95:6204/live/Abas/Abas/8388.ts
+#EXTINF:-1,In- Sony TV
+http://194.88.107.95:6204/live/Abas/Abas/8390.ts
+#EXTINF:-1,In- Star Bharat
+http://194.88.107.95:6204/live/Abas/Abas/8939.ts
+#EXTINF:-1,In- Star Jalsha
+http://194.88.107.95:6204/live/Abas/Abas/10959.ts
+#EXTINF:-1,In- Star Gold
+http://194.88.107.95:6204/live/Abas/Abas/8380.ts
+#EXTINF:-1,In- Star Plus
+http://194.88.107.95:6204/live/Abas/Abas/8938.ts
+#EXTINF:-1,In- Star Select
+http://194.88.107.95:6204/live/Abas/Abas/10958.ts
+#EXTINF:-1,In- Star World
+http://194.88.107.95:6204/live/Abas/Abas/10957.ts
+#EXTINF:-1,In- Ten Cricket
+http://194.88.107.95:6204/live/Abas/Abas/10956.ts
+#EXTINF:-1,In- Trace Urban
+http://194.88.107.95:6204/live/Abas/Abas/10955.ts
+#EXTINF:-1,In- Rishte Asia
+http://194.88.107.95:6204/live/Abas/Abas/10954.ts
+#EXTINF:-1,Per- Varzish Sport HD
+http://194.88.107.95:6204/live/Abas/Abas/1925.ts
+#EXTINF:-1,In- UTV Movies
+http://194.88.107.95:6204/live/Abas/Abas/8379.ts
+#EXTINF:-1,In- Zee Cafe
+http://194.88.107.95:6204/live/Abas/Abas/10953.ts
+#EXTINF:-1,In- Zee Cinema
+http://194.88.107.95:6204/live/Abas/Abas/8378.ts
+#EXTINF:-1,In-Zee Bollywood
+http://194.88.107.95:6204/live/Abas/Abas/10374.ts
+#EXTINF:-1,In- Zee Studio
+http://194.88.107.95:6204/live/Abas/Abas/10952.ts
+#EXTINF:-1,In- Zee TV
+http://194.88.107.95:6204/live/Abas/Abas/8377.ts
+#EXTINF:-1,In- Zing Music
+http://194.88.107.95:6204/live/Abas/Abas/10373.ts
+#EXTINF:-1,In- Zing TV
+http://194.88.107.95:6204/live/Abas/Abas/8947.ts
+#EXTINF:-1,In- Sony Ten 1 HD
+http://194.88.107.95:6204/live/Abas/Abas/8931.ts
+#EXTINF:-1,In- Sony Ten 2 HD
+http://194.88.107.95:6204/live/Abas/Abas/8930.ts
+#EXTINF:-1,In- Sony Ten 3 HD
+http://194.88.107.95:6204/live/Abas/Abas/8929.ts
